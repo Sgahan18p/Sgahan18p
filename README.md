@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 # 💫 About Me:
 I am currently diving deep into learning the MERN stack, focusing on full-stack web development.<br> My passion lies in both coding and exploring emerging technologies, constantly striving to expand my skillset.<br> I hold a degree in MCA, which has provided me with a solid foundation in computer science and programming. I am excited to continue my journey of growth and learning in the world of web development.
 
