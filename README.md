@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently focusing on expanding my skills in Java programming.<br> <br>I'm passionate about portrait making & coding .<br><br>I enjoy exploring new technologies and learning new things.<br><br>I hold a degree in MCA.<br>
+"I am currently diving deep into learning the MERN stack, focusing on full-stack web development.<br> My passion lies in both coding and exploring emerging technologies, constantly striving to expand my skillset.<br> I hold a degree in MCA, which has provided me with a solid foundation in computer science and programming. I am excited to continue my journey of growth and learning in the world of web development.
 
 
 ## 🌐 Socials:
